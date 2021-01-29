@@ -5,15 +5,19 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{D8F18210-9779-4089-B294-2642B6695903}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{9FB39DB1-5506-40E4-B6A1-BF005E1C4274}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{9FB39DB1-5506-40E4-B6A1-BF005E1C4274}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferanceTypes", "ValueAndReferanceTypes\ValueAndReferanceTypes.csproj", "{63BEF60C-D05C-4248-86FE-ECA0A9C0BFDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndReferanceTypes", "ValueAndReferanceTypes\ValueAndReferanceTypes.csproj", "{63BEF60C-D05C-4248-86FE-ECA0A9C0BFDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{603E677F-9A52-463B-920F-CD9FAB513AEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{603E677F-9A52-463B-920F-CD9FAB513AEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{335DF173-774D-4C26-9F81-15FED7F835D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{335DF173-774D-4C26-9F81-15FED7F835D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{5E5B53B2-9DE3-4DC5-8E4A-A16569B48221}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{5E5B53B2-9DE3-4DC5-8E4A-A16569B48221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{0574125D-E471-4D30-82DB-63E89643D472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{925EC374-2F40-401B-BE50-0A7DBBD0002E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{5E5B53B2-9DE3-4DC5-8E4A-A16569B48221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E5B53B2-9DE3-4DC5-8E4A-A16569B48221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E5B53B2-9DE3-4DC5-8E4A-A16569B48221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0574125D-E471-4D30-82DB-63E89643D472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0574125D-E471-4D30-82DB-63E89643D472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0574125D-E471-4D30-82DB-63E89643D472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0574125D-E471-4D30-82DB-63E89643D472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925EC374-2F40-401B-BE50-0A7DBBD0002E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925EC374-2F40-401B-BE50-0A7DBBD0002E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925EC374-2F40-401B-BE50-0A7DBBD0002E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925EC374-2F40-401B-BE50-0A7DBBD0002E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
